@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Carlos Rodríguez Rellán
+title: Carlos Rodríguez-Rellán
 
 # Username (this should match the folder name)
 authors:
