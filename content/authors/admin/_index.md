@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Carlos Rodríguez-Rellán
+title: Carlos Rodríguez Rellán
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Emergia researcher
 
 # Organizations/Affiliations
 organizations:
-- name: FCSH NOVA
-  url: "https://www.fcsh.unl.pt"
+- name: Facultad de Filosofía y Letras. Universidad de Granada
+  url: "https://filosofiayletras.ugr.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor of Prehistory at Universidade NOVA de Lisboa.
+bio: Emergia Researcher at Universidad de Granada.
 
 interests:
 - Lithic industries
@@ -89,6 +89,6 @@ user_groups:
 - Visitors
 ---
 
-I am Assistant Professor (Professor Auxiliar Convidado) at the Faculdade de Ciências Sociais e Humanas - Universidade NOVA de Lisboa (Portugal).
+I am an Emergia Researcher (Junta de Andalucía) at Facultad de Filosofía y Letras, Universidad de Granada (Spain).
 
-My research interests deal with the study of lithic industries made on “non-traditional” raw materials, such as slate, rock crystal and quartz and how some of their mechanical characteristics impact the knapping. Furthermore, I am also interested on the analysis of long distance networks during late Prehistory and on prehistoric open-air rock art.
+My research interests deal with the study of lithic industries made on “non-traditional” raw materials, such as slate, rock crystal and quartz and how some of their mechanical characteristics impact the knapping. Furthermore, I am also interested on the analysis of long distance networks during Late Prehistory and on prehistoric open-air rock art.
