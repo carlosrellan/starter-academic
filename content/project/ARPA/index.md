@@ -12,7 +12,7 @@ date: "2021-09-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ARPA
   focal_point: Smart
 
 
