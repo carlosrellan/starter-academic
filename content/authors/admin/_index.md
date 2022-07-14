@@ -89,6 +89,6 @@ user_groups:
 - Visitors
 ---
 
-I am an Emergia Researcher (Junta de Andalucía) at Facultad de Filosofía y Letras, Universidad de Granada (Spain).
+I am an Emergia Researcher (Junta de Andalucía) at Facultad de Filosofía y Letras, Universidad de Granada (Spain) and PI of the [Project ARPA](https://proyectos.ugr.es/arpa/) (Computational Analysis of exchange networks in Andalusian Late Prehistory).
 
 My research interests deal with the study of lithic industries made on “non-traditional” raw materials, such as slate, rock crystal and quartz and how some of their mechanical characteristics impact the knapping. Furthermore, I am also interested on the analysis of long distance networks during Late Prehistory and on prehistoric open-air rock art.
