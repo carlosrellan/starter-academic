@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Emergia researcher
+role: Emergia fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://filosofiayletras.ugr.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Emergia Researcher at Universidad de Granada.
+bio: Emergia Fellw at Universidad de Granada.
 
 interests:
 - Lithic industries
@@ -89,6 +89,6 @@ user_groups:
 - Visitors
 ---
 
-I am an Emergia Fellow (Junta de Andalucía) at Facultad de Filosofía y Letras, Universidad de Granada (Spain) and PI of the <strong>[Project ARPA](https://proyectos.ugr.es/arpa/)</strong> (Computational Analysis of exchange networks in Andalusian Late Prehistory) and the <strong>ANDALUSIL project</strong> (Procurement strategies and production processes of sillimanite polished tools during the Late Prehistory of Andalusia).
+I am an Emergia Fellow (Junta de Andalucía) at Facultad de Filosofía y Letras, Universidad de Granada (Spain) and PI of the <strong>[Project ARPA](https://proyectos.ugr.es/arpa/)</strong> (<em>"Computational Analysis of exchange networks in Andalusian Late Prehistory"</em>) and the <strong>ANDALUSIL project</strong> (<em>"Procurement strategies and production processes of sillimanite polished tools during the Late Prehistory of Andalusia"</em>).
 
 My research interests deal with the study of polished and knapped lithic industries. Furthermore, I am also interested on the analysis of long distance networks during Late Prehistory and on prehistoric open-air rock art.
