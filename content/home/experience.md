@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Emergia Researcher"
+  title = "Emergia Fellow"
   company = "UGR"
   company_url = "https://novaresearch.unl.pt/en/persons/carlos-rellán"
   location = "Granada (ES)"
