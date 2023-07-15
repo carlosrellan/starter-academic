@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Emergia fellow
+role: Emergia Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://filosofiayletras.ugr.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Emergia Fellw at Universidad de Granada.
+bio: Emergia Fellow at Universidad de Granada.
 
 interests:
 - Lithic industries
