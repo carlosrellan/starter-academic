@@ -70,7 +70,7 @@ social:
   icon_pack: ai ai-zotero
   link: https://www.zotero.org/carlos_relln
 - icon: bluesky
-  icon_pack: fab
+  icon_pack: fas
   link: https://bsky.app/profile/carlosrellan.bsky.social
 - icon: twitter
   icon_pack: fab
